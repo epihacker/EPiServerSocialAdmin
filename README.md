@@ -1,4 +1,4 @@
-# EPiServer.Social.Admin
+# Overview
 An admin panel for EPiServer Social.
 
 # Install
