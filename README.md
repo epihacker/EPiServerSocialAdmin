@@ -6,7 +6,7 @@ Clone or download the repo.
 
 # Setup
 Before running, open the Web.config and replace <YOUR_APP-ID> and <YOUR_AUTH_SECRET>
-    &gt;authentication appId="YOUR_APP_ID" secret="YOUR_AUTH_SECRET" /&lt;
+    authentication appId="YOUR_APP_ID" secret="YOUR_AUTH_SECRET"
 
 Also the <episerver.social>/<endpoints> uses "localhost" as the cloud server.
 
